@@ -1,0 +1,19 @@
+*{cursor:url("../Cursor/zeu.cur"),pointer}
+body{background-color:#C8DC9770}
+#indice{border:1px solid black;
+	width:150px;}
+img{position:absolute;
+width:100px;
+height:150px
+}
+h1{font-size:90px;
+	text-align:center;
+	font-family:Caslon Antique;
+	height:100px}
+iframe{width:70%;
+position:absolute;
+top:150px;
+height:400px;
+margin-left:200px;
+border:0px
+}

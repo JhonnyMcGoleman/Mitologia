@@ -1,0 +1,39 @@
+*{text-align:justify;cursor:url("../Cursor/zeu.cur"),pointer}
+body{background-color:#C8DC9770}
+h1{font-size:60px;
+	font-family:Caslon Antique;}
+#menu ul li ul{display:none}
+#menu ul li{display:inline;
+	list-style:none;
+	width:100px;
+	padding:20px;
+	margin-left:40px;
+	font-family:Caslon Antique;
+	font-size:30px;
+	border:1px solid black;
+	border-radius:50%;
+	height:100%
+}
+.a{background-color:#C8DC97;}
+
+#menu ul .a:hover{background-color:#C8DC9770;}
+
+#menu ul li:hover ul{display:block;
+position:relative;
+background-color:#C8DC9770;
+position:absolute;
+font-size:30px;font-family:Caslon Antique;
+top:80px;
+}
+
+#menu ul li:hover ul li{border:none;font-size:21px;
+}
+
+.a ul{padding:20px;
+width:90%;
+font-size:8px;
+}
+
+#menu{width:100%;position:relative;
+height:100px
+}

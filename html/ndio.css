@@ -1,0 +1,30 @@
+*{cursor:url("../Cursor/fro.cur"),pointer}
+body{background-color:#E3FFFD30;}
+#indice{border:1px solid black;
+	width:200px;
+	font-size:20px;
+	background-color:#D1F3F3;}
+#uno{position:absolute;
+width:100px;
+top:-50px;
+height:250px;
+transform:rotate(-90deg);
+left:150px;
+}
+#otro{left:1020px;
+top:-50px;
+height:250px;
+position:absolute;
+width:100px;
+transform:rotate(90deg);}
+
+h1{font-size:90px;
+	text-align:center;
+	height:100px}
+iframe{width:70%;
+position:absolute;
+top:150px;
+height:400px;
+margin-left:210px;
+border:0px
+}

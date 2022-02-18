@@ -1,0 +1,36 @@
+*{cursor:url("../Cursor/zeu.cur"),pointer}
+	body{background-color:#C8DC9770}
+h1{font-size:60px;
+	font-family:Caslon Antique; }
+ul{list-style:none}
+#menu li ul{display:none}
+#menu > li{border:1px solid black;
+	height:90px;
+	width:190px;
+	margin:20px;
+	padding-top:20px;
+	text-align:center;
+	font-size:30px;
+	background-color:#C8DC9730;
+	font-family:Caslon Antique; 
+	color:#6C8E17;
+	text-shadow:2px 2px 2px #6C8E10;
+	text-decoration:bold;}
+#menu > li:hover{background-color:#C8DC97;}
+#menu li:hover ul{display:inline;
+	position:absolute;
+	top:100px;
+	color:black;
+	font-size:20px;
+	font-family:Caslon Antique; 
+	left:260px;}
+.def{border:1px solid black;
+	background-color:#C8DC9730;
+	width:400px;}
+#cer{border:1px solid black;
+	background-color:#C8DC9730;
+	width:400px;}
+.foto{position:absolute;
+	left:500px;
+	width:380px;
+	top:0px}

@@ -1,0 +1,39 @@
+*{cursor:url("../Cursor/pir.cur"),pointer}
+body{background-color:#6A561870;}
+	*{text-align:justify;}
+h1{font-size:60px;
+}
+#menu ul li ul{display:none}
+#menu ul li{display:inline;
+	list-style:none;
+	width:100px;
+	padding:20px;
+	margin-left:40px;
+	font-family:Caslon Antique;
+	font-size:30px;
+	border:1px solid black;
+	border-radius:50%;
+	height:100%
+	
+}
+
+.a{background-color:#D99328;}
+#menu ul .a:hover{background-color:#D9932870;}
+#menu ul li:hover ul{display:block;
+position:relative;
+background-color:#D9932870;
+position:absolute;
+font-size:30px;font-family:Caslon Antique;
+top:80px;
+}
+.a ul{padding:20px;
+width:90%;
+font-size:8px;
+}
+#menu ul li:hover ul li{border:none;font-size:25px;
+
+}
+
+#menu{width:100%;position:relative;
+height:100px
+}

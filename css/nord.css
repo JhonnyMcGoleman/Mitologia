@@ -1,0 +1,71 @@
+*{cursor:url("../Cursor/fro.cur"),pointer}
+body{background-image:url("../img/bgnord.jpg");
+	background-repeat:no-repeat;
+	 background-size:100% 100%;
+	 z-index:20;}
+#ini{position:absolute;
+	background-color:##BFFFF830;
+	z-index:2;
+	width:250px;
+	top:20px;
+	left:20px;
+	border:2px ridge #E3FFFD}
+#ini:hover{background-color:#D1F3F3;}
+#ini h1{font-size:50px;
+height:50px;}
+#cont{border:10px solid black;
+	width:1500px;
+	position:relative;
+	margin-left:160px;
+	margin-top:30px;
+	height:1000px;
+	border: 20px ridge #E3FFFD;
+	background-color:#E3FFFD30;}
+h1{font-size:100px;
+	text-shadow:3px 2px 2px #58D6F2;
+	text-align:center;
+	color:#14B3D6;
+
+	}
+header{height:250px;
+	width:90%;
+	margin-left:80px;
+	background-image:url(../img/rune.png);
+	background-repeat:no-repeat;
+	background-size:210px 210px;
+	background-position:570px}	
+img{width:70px}
+#menu{position:relative;
+	display:inline-block;
+	left:30px;
+	}
+#desp{display:none;
+	position:absolute;
+	top:30px;
+	left:-40px;
+	margin-top:40px;
+	list-style:none;
+	z-index:1;
+}
+#menu{psoition:absloute;
+	top:-35px}
+#menu:hover #desp{display:block;
+	}
+ul{list-style:none;
+	left:100px}
+#menu #desp li{border:5px solid #D96A28;
+				background-color:#BFFFF8;
+				height:30px;
+				width:100px;
+				font-size:30px;
+				padding:5px;
+				margin:5px;
+				border-radius:20%;}
+a{text-decoration:none;
+	color: #CF3D0E}
+iframe{position:absolute;
+	left:130px;
+	top:300px;
+	width:1300px;
+	height:650px;
+	border:0px}
