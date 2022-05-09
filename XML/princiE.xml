@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="princiE.xsl"?>
+<dioses>
+	<dios origen="Egipto">
+		<nombre>Ra</nombre>
+		<aspecto>Cabeza de halcon y cuerpo de humano</aspecto>
+		<dominio>El sol</dominio>
+		<poderes>Pirokinesis,super vista,transformacion y teletransportacion</poderes>
+
+	</dios>
+	<dios origen="Egipto">
+		<nombre>Anubis</nombre>
+		<aspecto>Cabeza de chacal y cuerpo humano</aspecto>
+		<dominio>Necrópolis</dominio>
+		<poderes>Superfuerza</poderes>
+
+	</dios>
+	<dios origen="Egipto">
+		<nombre>Isis</nombre>
+		<aspecto>Mujer con alas</aspecto>
+		<dominio>Maternidad y vida</dominio>
+		<poderes>Da vida a dioses</poderes>
+	</dios>
+	<dios origen="Egipto">
+		<nombre>Seth</nombre>
+		<aspecto>Hocico curvado y orejas rectangulares</aspecto>
+		<dominio>Destruccion</dominio>
+		<poderes>Transformacion y superfuerza</poderes>
+	</dios>
+	
+	<dios origen="Grecia">
+		<nombre>Zeus</nombre>
+		<aspecto>Hombre fuerte de barba blanca</aspecto>
+		<dominio>Rayo</dominio>
+		<poderes>Super fuerza,teletransportacion,transformacion y lanzar rayos</poderes>
+	</dios>
+	<dios origen="Grecia">
+		<nombre>Poseidon</nombre>
+		<aspecto>Hombre barbudo portando un tridente </aspecto>
+		<dominio>Oceano y caballos</dominio>
+		<poderes>Control del agua</poderes>
+	</dios>
+	<dios origen="Grecia">
+		<nombre>Hades</nombre>
+		<aspecto> cabello y largas barbas, calavera, huesos y ciprés, portando en la mano un cetro de dos puntas </aspecto>
+		<dominio>El inframundo</dominio>
+		<poderes>Hacerse inbulnerable y sangre con propiedades especiales</poderes>
+	</dios>
+	<dios origen="Grecia">
+		<nombre>Demeter</nombre>
+		<aspecto>una mujer sobriamente vestida y coronada de espigas que porta una antorcha en la mano</aspecto>
+		<dominio>La naturaleza</dominio>
+		<poderes>Controlar las plantas</poderes>
+	</dios>
+	
+	<dios origen="Nordico">
+		<nombre>Odin</nombre>
+		<aspecto>Anciano barbudo con un solo ojo</aspecto>
+		<dominio>Todo</dominio>
+		<poderes>Ver el futuro,rimar muy bien y hacer magia</poderes>
+	</dios>
+	<dios origen="Nordico">
+		<nombre>Thor</nombre>
+		<aspecto>Hombre fuerte barbudo y pelirrojo con un martillo</aspecto>
+		<dominio>El trueno</dominio>
+		<poderes>Controlar el trueno y superfuerza</poderes>
+	</dios>
+	<dios origen="Nordico">
+		<nombre>Loki</nombre>
+		<aspecto>Hombre alto y esbelto</aspecto>
+		<dominio>Las travesuras</dominio>
+		<poderes>Cambio de forma e invisibilidad</poderes>
+	</dios>
+	<dios origen="Nordico">
+		<nombre>Freya</nombre>
+		<aspecto>Mujer hermosa con largos cabellos dorados</aspecto>
+		<dominio>El amor</dominio>
+		<poderes>Hacer magia</poderes>
+	</dios>
+	
+</dioses>

@@ -1,0 +1,21 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+	<element name="dioses">
+		<complexType>
+			<sequence>
+				<element name="dios" maxOccurs="unbounded"/>
+			</sequence>
+		</complexType>
+	</element>
+	<complexType name="dios">
+			
+		<sequence>
+			<element name="nombre" type="string"/>
+			<element name="aspecto" type="string"/>
+			<element name="nominio" type="string"/>
+			<element name="texto" type="string"/>
+		</sequence>
+		<attribute name="origen" type="string" use="required"/>
+	</complexType>
+
+	
+</schema>

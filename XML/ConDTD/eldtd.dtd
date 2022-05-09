@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT dioses (dios+)>
+<!ELEMENT dios (nombre,aspecto,dominio,poderes)>
+<!ATTLIST dios origen (Egipto|Grecia|Nordico) #REQUIRED>
+	<!ELEMENT nombre (#PCDATA)>
+	<!ELEMENT aspecto (#PCDATA)>
+	<!ELEMENT dominio (#PCDATA)>
+	<!ELEMENT poderes (#PCDATA)>
+
